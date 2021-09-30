@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Wenxian-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wenxian-fei-28a9a3102/)
 [![Gmail Badge](https://img.shields.io/badge/-vivien.w.fei@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:vivien.w.fei@gmail.com)
 
-**A data engineer/data scientist based in Seattle, US.**
+**A Software Engineer /data scientist based in Seattle, US.**
 
 **从analytics到engineering的学渣一枚，来回反复依旧在转码的道路上奋斗**
 - 💻 Python | Java | Scala | Chinese | English
