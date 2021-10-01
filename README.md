@@ -5,7 +5,6 @@
 
 **A Software Engineer /data scientist based in Seattle, US.**
 
-**从analytics到engineering的学渣一枚，来回反复依旧在转码的道路上奋斗**
 - 💻 Python | Java | Scala | Chinese | English
 - 🌈 Data Engineering | Data Analytics & Science | Software Engineering
 - 📖 Check out these resources 攒了一些笔记供自己复习:
