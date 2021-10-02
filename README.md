@@ -7,11 +7,11 @@
 
 - 💻 Python | Java | Scala | Chinese | English
 - 🌈 Data Engineering | Data Analytics & Science | Software Engineering
-- 📖 Check out these resources 攒了一些笔记供自己复习:
+- 📖 Check out these resources:
     * **Notes**:(All ongoing)
         * [Object Oriented Design](https://github.com/vivienfay/OOD_Notes)
-        * [Leetcode Algorithm 算法](https://github.com/vivienfay/Algorithm)
-        * [Data Science 数据科学笔记整理](https://github.com/vivienfay/DataScienceNotes)
-        * [System Design 系统设计笔记整理](https://github.com/vivienfay/System-Design)
-        * [Product 产品case题思路](https://github.com/vivienfay/ProductNotes)
+        * [Leetcode Algorithm](https://github.com/vivienfay/Algorithm)
+        * [Data Science Notes](https://github.com/vivienfay/DataScienceNotes)
+        * [System Design Notes](https://github.com/vivienfay/System-Design)
+        * [Product Case Analysis](https://github.com/vivienfay/ProductNotes)
     * **[Personal Website](https://vivienfay.github.io/)**
